@@ -1,0 +1,17 @@
+{
+    "userID": "dj2570",
+    "nameLast": "Jeong",
+    "nameFirst": "Lisa",
+    "email": "dj2570@columbia.edu",
+    "links": [
+        {
+            "href": "/addresses/201",
+            "rel": "address"
+        },
+        {
+            "href": "/users/dj2570",
+            "rel": "self"
+        }
+    ]
+}
+
